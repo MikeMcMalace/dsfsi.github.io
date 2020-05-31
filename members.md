@@ -17,6 +17,7 @@ The group is made up of a number of people who work on a few themes.
 ## PhD Students
 
 * Abiodun Modupe [Wits][NLP, ML, SM]
+* Herkulaas Combrink [UP][RL, ML, Education]
 
 ## Masters
 
